@@ -1,4 +1,4 @@
-# 🎯 90-Day IT Infrastructure & Cybersecurity Career Transition Plan
+# 🎯 90-Day IT Infrastructure & Cybersecurity
 
 Welcome to my personalized 90-day challenge to transition into a Cloud, DevOps, and Cybersecurity career path. This repository documents the full study plan, hands-on labs, scripts, notes, and capstone projects from Week 1 to Week 12.
 
